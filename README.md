@@ -8,7 +8,7 @@
 - 😄 Pronouns: he/him
 - 🌱 I’m currently learning JavaScript, among other technologies
 - 👯 I’m open to collaborate on any projects
-- 🔭 I’m currently working on a [Telegram Bot script](https://github.com/aitorjus/RaspberryPiScripts), that goes on a linux machine, based on Python
+- 🔭 I’m currently working on a [Telegram Bot script](https://github.com/aitorjus/RaspberryPiScripts), based on Python
 
 ### Tech
 
