@@ -4,11 +4,9 @@
 
 ### Computer science student at Euskal Herriko Unibertsitatea in Bilbao, Spain 📖
 
-- 📫 How to reach me: aperez375@ikasle.ehu.eus or on [Twitter](https://twitter.com/aitorjus)
+- 📫 How to reach me: aperez375@ikasle.ehu.eus
 - 😄 Pronouns: he/him
 - 🌱 I’m currently learning JavaScript, among other technologies
-- 👯 I’m open to collaborate on any projects
-- 🔭 I’m currently working on a [Telegram Bot script](https://github.com/aitorjus/RaspberryPiScripts), based on Python
 
 ### Tech
 
