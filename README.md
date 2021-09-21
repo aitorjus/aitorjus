@@ -1,6 +1,6 @@
 ### Hi there I'm Aitor 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/aitorjus?logo=twitter)](https://twitter.com/aitorjus)
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/aitorjus?logo=twitter)](https://twitter.com/aitorjus)-->
 
 ### Computer science student at Euskal Herriko Unibertsitatea in Bilbao, Spain 📖
 
