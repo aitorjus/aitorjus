@@ -2,7 +2,7 @@
 
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/aitorjus?logo=twitter)](https://twitter.com/aitorjus)-->
 
-### Computer science student at Euskal Herriko Unibertsitatea in Bilbao, Spain 📖
+### Computer science graduate at Euskal Herriko Unibertsitatea in Bilbao, Spain 📖
 
 - 📫 How to reach me: aperez375@ikasle.ehu.eus
 - 😄 Pronouns: he/him
